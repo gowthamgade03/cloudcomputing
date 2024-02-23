@@ -1,0 +1,2 @@
+# cloudcomputing
+storage is memory
